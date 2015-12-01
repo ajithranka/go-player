@@ -5,3 +5,5 @@ Requires `python 2.x`
     $ python go.py
 
 ![Screenshot](screenshot.png)
+
+[View code](go.py)
